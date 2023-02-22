@@ -54,7 +54,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> [Live Demo](http://localhost:3000)
+> [Live Demo](https://ouail-01.github.io/Todo-App_with-react/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -81,9 +81,6 @@ A commandline interface e.g Gitbash
 
 To run the project, execute the following command:
 ### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
