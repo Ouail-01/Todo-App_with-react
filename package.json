@@ -2,7 +2,7 @@
   "name": "react-todo-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Ouail-01.github.io/Todo-App_with-react/",
+  "homepage": "https://ouail-01.github.io/Todo-App_with-react/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
