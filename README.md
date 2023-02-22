@@ -1,11 +1,85 @@
-# Getting Started with Create React App
+# To-Do-List_Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<a name="readme-top"></a>
 
-## Available Scripts
+# 📗Table of Contents
 
-In the project directory, you can run:
+- [📖 About the Project](#about-project)
+- [🛠 Built With](#built-with)
+- [Tech Stack](#tech-stack)
+- [Key Features](#key-features)
+- [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Setup](#setup)
+  - [Usage](#usage)
+- [👥 Authors](#authors)
+- [👥 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [🙏 Acknowledgements](#acknowledgements)
+- [📝 License](#license)
 
+<!-- PROJECT DESCRIPTION -->
+
+# 📖 [To-Do-List Project] <a name="about-project"></a>
+
+**[To-Do-List Project]** "To-do list" is a tool that helps to organize your day. It simply lists the things that you need to do and allows you to mark them as complete. You will build a simple website that allows for doing that, and you will do it using ES6 and Webpack!
+## 🛠 Built With <a name="built-with"></a>
+
+### Tech Stack <a name="tech-stack"></a>
+
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li>Ract</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+  </ul>
+</details>
+
+### Key Features <a name="key-features"></a>
+
+- An HTML File
+- A CSS File
+- A Javascript file
+- ES6
+- A modules file
+- An md file
+- Webpack
+- React
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+> [Live Demo](http://localhost:3000)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+### Prerequisites
+
+In order to run this project you need:
+
+A Browser
+
+### Setup
+
+Clone this repository to your desired folder:
+
+`https://github.com/Ouail-01/Todo-App_with-react.git`
+
+### Install
+
+Install this project with:
+A commandline interface e.g Gitbash
+
+### Usage
+
+To run the project, execute the following command:
 ### `npm start`
 
 Runs the app in the development mode.\
@@ -27,44 +101,41 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 👥 Author <a name="authors"></a>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+👤 **Ouail Laarabi**
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- GitHub: [@Ouail-01](https://github.com/Ouail-01?tab=overview&from=2023-01-01&to=2023-01-02)
+- Twitter: [@Ouail_laarabi](https://twitter.com/Ouail_Laarabi)
+- LinkedIn: [Ouail Laarabi](https://www.linkedin.com/in/ouail-laarabi-53203b250/)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Future Features <a name="future-features"></a>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+**In future features, I intend to include more pages such as:**
 
-### Code Splitting
+- Create a collection that keeps a list of books.
+- Add a functionality that allows users to add and remove books to and from the collection.
+- Display all saved books in the collection on the page
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Analyzing the Bundle Size
+🤝 Contributing
+Contributions, issues, and feature requests are welcome!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+<p align="right"><p align="right">(<a href="#readme-top"><a href="#readme-top">back to top</a></a>)</p></p>
 
-### Making a Progressive Web App
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Give a ⭐️ if you like this project!
 
-### Advanced Configuration
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## 📝 License
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This project is [MIT](./LICENSE) licensed.
